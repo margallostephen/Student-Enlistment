@@ -329,7 +329,6 @@ public class Main {
 
                 if (info.equals("course")) 
                     course = userInput.trim();
-                
 
                 if (info.equals("subject name")) 
                     subjectName = userInput.trim();
